@@ -1,0 +1,7 @@
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\ExtractSentence\bin\Debug\ExtractSentence.exe.config
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\ExtractSentence\bin\Debug\ExtractSentence.exe
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\ExtractSentence\bin\Debug\ExtractSentence.pdb
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\ExtractSentence\obj\Debug\ExtractSentence.csprojResolveAssemblyReference.cache
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\ExtractSentence\obj\Debug\ExtractSentence.csproj.CoreCompileInputs.cache
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\ExtractSentence\obj\Debug\ExtractSentence.exe
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\ExtractSentence\obj\Debug\ExtractSentence.pdb

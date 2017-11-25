@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailChecker", "EmailChecker\EmailChecker.csproj", "{8C475C99-C777-4900-900C-6F024F9CBA25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractSentence", "ExtractSentence\ExtractSentence.csproj", "{AC1965A5-2847-4B75-9F09-1BCEFD31AD6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraView", "CameraView\CameraView.csproj", "{1C89EB28-D4B0-4D73-B13D-EDF53571E19B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather", "Weather\Weather.csproj", "{088B7703-EF84-4482-8811-E5EFA30088B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceKeys", "ReplaceKeys\ReplaceKeys.csproj", "{4376D9A6-CF8E-4E02-8031-D0B6334D9F2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidUsers", "ValidUsers\ValidUsers.csproj", "{83D2D1CF-DF3E-4088-A694-11CACD23D85F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C475C99-C777-4900-900C-6F024F9CBA25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C475C99-C777-4900-900C-6F024F9CBA25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C475C99-C777-4900-900C-6F024F9CBA25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C475C99-C777-4900-900C-6F024F9CBA25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC1965A5-2847-4B75-9F09-1BCEFD31AD6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1965A5-2847-4B75-9F09-1BCEFD31AD6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1965A5-2847-4B75-9F09-1BCEFD31AD6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1965A5-2847-4B75-9F09-1BCEFD31AD6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C89EB28-D4B0-4D73-B13D-EDF53571E19B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C89EB28-D4B0-4D73-B13D-EDF53571E19B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C89EB28-D4B0-4D73-B13D-EDF53571E19B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C89EB28-D4B0-4D73-B13D-EDF53571E19B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{088B7703-EF84-4482-8811-E5EFA30088B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088B7703-EF84-4482-8811-E5EFA30088B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{088B7703-EF84-4482-8811-E5EFA30088B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{088B7703-EF84-4482-8811-E5EFA30088B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4376D9A6-CF8E-4E02-8031-D0B6334D9F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4376D9A6-CF8E-4E02-8031-D0B6334D9F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4376D9A6-CF8E-4E02-8031-D0B6334D9F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4376D9A6-CF8E-4E02-8031-D0B6334D9F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83D2D1CF-DF3E-4088-A694-11CACD23D85F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D2D1CF-DF3E-4088-A694-11CACD23D85F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D2D1CF-DF3E-4088-A694-11CACD23D85F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D2D1CF-DF3E-4088-A694-11CACD23D85F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72613E07-8F00-4183-AD73-87E1A56A8EC7}
+	EndGlobalSection
+EndGlobal

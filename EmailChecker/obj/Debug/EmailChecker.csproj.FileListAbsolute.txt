@@ -1,0 +1,7 @@
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\EmailChecker\bin\Debug\EmailChecker.exe.config
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\EmailChecker\bin\Debug\EmailChecker.exe
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\EmailChecker\bin\Debug\EmailChecker.pdb
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\EmailChecker\obj\Debug\EmailChecker.csprojResolveAssemblyReference.cache
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\EmailChecker\obj\Debug\EmailChecker.csproj.CoreCompileInputs.cache
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\EmailChecker\obj\Debug\EmailChecker.exe
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\EmailChecker\obj\Debug\EmailChecker.pdb

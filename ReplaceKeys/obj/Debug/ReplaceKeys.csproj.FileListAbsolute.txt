@@ -1,0 +1,7 @@
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\ReplaceKeys\obj\Debug\ReplaceKeys.csprojResolveAssemblyReference.cache
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\ReplaceKeys\obj\Debug\ReplaceKeys.csproj.CoreCompileInputs.cache
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\ReplaceKeys\bin\Debug\ReplaceKeys.exe.config
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\ReplaceKeys\bin\Debug\ReplaceKeys.exe
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\ReplaceKeys\bin\Debug\ReplaceKeys.pdb
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\ReplaceKeys\obj\Debug\ReplaceKeys.exe
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\ReplaceKeys\obj\Debug\ReplaceKeys.pdb

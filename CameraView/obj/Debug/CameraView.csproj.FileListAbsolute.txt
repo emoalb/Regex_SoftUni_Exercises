@@ -1,0 +1,7 @@
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\CameraView\bin\Debug\CameraView.exe.config
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\CameraView\bin\Debug\CameraView.exe
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\CameraView\bin\Debug\CameraView.pdb
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\CameraView\obj\Debug\CameraView.csprojResolveAssemblyReference.cache
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\CameraView\obj\Debug\CameraView.csproj.CoreCompileInputs.cache
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\CameraView\obj\Debug\CameraView.exe
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\CameraView\obj\Debug\CameraView.pdb

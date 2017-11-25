@@ -1,0 +1,6 @@
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\ValidUsers\bin\Debug\ValidUsers.exe.config
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\ValidUsers\bin\Debug\ValidUsers.exe
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\ValidUsers\bin\Debug\ValidUsers.pdb
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\ValidUsers\obj\Debug\ValidUsers.csproj.CoreCompileInputs.cache
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\ValidUsers\obj\Debug\ValidUsers.exe
+C:\Users\Zorak\Documents\Visual Studio 2017\Projects\RegularExpressions\ValidUsers\obj\Debug\ValidUsers.pdb
